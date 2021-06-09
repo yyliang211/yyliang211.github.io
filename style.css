@@ -11,8 +11,11 @@ h1 {
 
 p {
         font-family: Garamond, Georgia, serif;
+        font-size: 18px;
 }
 
 ul {
         font-family: Garamond, Georgia, serif;
+        line-height: 1.4;
+        font-size: 18px;
 }
